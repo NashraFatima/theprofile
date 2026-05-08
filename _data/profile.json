@@ -1,13 +1,13 @@
 {
   "theme_config": {
     "mode": "dark",
-    "vanta_effect": "rings",
+    "vanta_effect": "birds",
     "vanta_magic": true,
 
     "colors": {
-      "primary": "#0b1020",
-      "secondary": "#151b2f",
-      "accent": "#a78bfa"
+      "primary": "#0a0f1f",
+      "secondary": "#111827",
+      "accent": "#7c9cff"
     },
 
     "music": {
@@ -266,7 +266,7 @@
 
   "recommendations": [
     {
-      "text": "Passionate about learning, creativity, innovation, and building impactful technology experiences through continuous growth and intelligent problem solving.",
+      "text": "Passionate about learning, creativity, innovation, and building impactful technology experiences through continuous growth and intelligent problem solving.\n\nBelieves in building a meaningful life and career while living with integrity.",
 
       "name": "Nashra Fatima",
 
