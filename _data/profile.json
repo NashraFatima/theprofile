@@ -1,13 +1,13 @@
 {
   "theme_config": {
     "mode": "dark",
-    "vanta_effect": "clouds",
+    "vanta_effect": "rings",
     "vanta_magic": true,
 
     "colors": {
-      "primary": "#0f172a",
-      "secondary": "#1e293b",
-      "accent": "#c4b5fd"
+      "primary": "#0b1020",
+      "secondary": "#151b2f",
+      "accent": "#a78bfa"
     },
 
     "music": {
@@ -29,7 +29,7 @@
 
   "name": "Nashra Fatima",
 
-  "headline": "Data Analytics & AI Explorer Crafting Smart Digital Experiences Through Code, Creativity & Automation",
+  "headline": "AI & Data Analytics Explorer Building Intelligent, Creative & Futuristic Digital Experiences",
 
   "email": "shaiknashra122@gmail.com",
 
@@ -37,7 +37,7 @@
 
   "resume_url": "",
 
-  "bio": "IT student passionate about Artificial Intelligence, Data Science, robotics, and futuristic technology. Currently exploring AI, automation, and data analytics using Python, Pandas, NumPy, and modern development tools. I enjoy building creative tech ideas that combine intelligence, innovation, and user experience. Alongside technology, I actively engage in community leadership, content creation, and digital creativity. Driven by curiosity, continuous learning, and a vision to create impactful solutions that make everyday life smarter, more efficient, and meaningful — while living with integrity.",
+  "bio": "IT student passionate about Artificial Intelligence, Data Science, robotics, and futuristic technology. Currently exploring AI, automation, and data analytics using Python, Pandas, NumPy, and modern development tools. I enjoy building creative tech ideas that combine intelligence, innovation, and user experience. Alongside technology, I actively engage in community leadership, digital creativity, and collaborative initiatives. Driven by curiosity, continuous learning, and a vision to create impactful solutions that make everyday life smarter, more efficient, and meaningful — while living with integrity.",
 
   "social": [
     {
@@ -46,24 +46,28 @@
       "logo": "github",
       "color": "181717"
     },
+
     {
       "platform": "LinkedIn",
       "url": "https://www.linkedin.com/in/nashra-fatima-b6a83b326/",
       "logo": "linkedin",
       "color": "0A66C2"
     },
+
     {
       "platform": "Instagram",
       "url": "https://www.instagram.com/_shaik.nashra_?igsh=MTY2dGc4dzU1eXkyNQ==",
       "logo": "instagram",
       "color": "E4405F"
     },
+
     {
       "platform": "X",
       "url": "https://x.com/NashraFatima29",
       "logo": "x",
       "color": "000000"
     },
+
     {
       "platform": "LeetCode",
       "url": "https://leetcode.com/u/NashraFatima/",
@@ -75,13 +79,19 @@
   "experience": [
     {
       "role": "Community Lead & Creative Contributor",
+
       "company": "Tech Communities",
+
       "company_url": "https://github.com/NashraFatima",
+
       "duration": "2024 – Present",
+
       "description": [
         "Actively involved in student tech communities, leadership initiatives, and collaborative projects.",
+
         "Contributed to creative digital campaigns, community engagement, and technical event coordination.",
-        "Exploring the intersection of technology, creativity, automation, and intelligent systems."
+
+        "Exploring the intersection of technology, creativity, automation, artificial intelligence, and intelligent systems."
       ]
     }
   ],
@@ -89,6 +99,7 @@
   "skills": [
     {
       "category": "Programming & Development",
+
       "items": [
         "Python",
         "Java",
@@ -97,6 +108,7 @@
         "HTML",
         "CSS"
       ],
+
       "logos": [
         "python",
         "openjdk",
@@ -108,7 +120,8 @@
     },
 
     {
-      "category": "Data Science & Analytics",
+      "category": "AI, Data Science & Analytics",
+
       "items": [
         "Pandas",
         "NumPy",
@@ -117,6 +130,7 @@
         "Data Analytics",
         "AI Exploration"
       ],
+
       "logos": [
         "pandas",
         "numpy",
@@ -129,6 +143,7 @@
 
     {
       "category": "Tools & Technologies",
+
       "items": [
         "GitHub",
         "VS Code",
@@ -137,6 +152,7 @@
         "n8n",
         "Automation"
       ],
+
       "logos": [
         "github",
         "visualstudiocode",
@@ -149,6 +165,7 @@
 
     {
       "category": "Creative & Leadership",
+
       "items": [
         "Community Leadership",
         "Content Creation",
@@ -157,6 +174,7 @@
         "Marketing",
         "Creative Strategy"
       ],
+
       "logos": [
         "discord",
         "youtube",
@@ -171,11 +189,15 @@
   "education": [
     {
       "degree": "Bachelor of Technology",
+
       "institution": "Information Technology",
+
       "year": "2023 – Present",
+
       "description": [
-        "Focused on Artificial Intelligence, Data Science, programming, and modern software technologies.",
-        "Actively exploring futuristic technology, intelligent systems, automation, and creative digital solutions."
+        "Focused on Artificial Intelligence, Data Science, software development, and modern digital technologies.",
+
+        "Actively exploring futuristic systems, intelligent automation, robotics, and creative problem-solving through technology."
       ]
     }
   ],
@@ -183,6 +205,7 @@
   "projects": [
     {
       "title": "AI & Data Science Learning Journey",
+
       "description": "Documenting and building projects while exploring Artificial Intelligence, Data Analytics, automation, and intelligent technologies using Python and modern development tools.",
 
       "image_url": "",
@@ -206,6 +229,7 @@
       ],
 
       "code_url": "https://github.com/NashraFatima",
+
       "live_url": ""
     },
 
@@ -235,17 +259,18 @@
       ],
 
       "code_url": "https://github.com/NashraFatima",
+
       "live_url": ""
     }
   ],
 
   "recommendations": [
     {
-      "text": "Passionate about learning, creativity, and building impactful technology experiences through continuous growth and innovation.",
+      "text": "Passionate about learning, creativity, innovation, and building impactful technology experiences through continuous growth and intelligent problem solving.",
 
       "name": "Nashra Fatima",
 
-      "title": "AI & Data Science Enthusiast",
+      "title": "AI & Data Analytics Enthusiast",
 
       "linkedin_url": "https://www.linkedin.com/in/nashra-fatima-b6a83b326/"
     }
