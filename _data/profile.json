@@ -4,14 +4,14 @@
     "vanta_effect": "birds",
     "vanta_magic": true,
     "colors": {
-      "primary": "#0d1117",
-      "secondary": "#161b22",
-      "accent": "#58a6ff"
+      "primary": "#0b1020",
+      "secondary": "#111827",
+      "accent": "#8b5cf6"
     },
     "music": {
       "enabled": true,
       "file": "/assets/music/interstellar.mp3",
-      "max_volume": 1.0
+      "max_volume": 0.15
     },
     "use_logo_image": true,
     "nav_bar_logo_url": "/assets/img/theprofile.png",
@@ -19,143 +19,226 @@
   },
 
   "available_for_work": true,
+
   "blog_config": {
     "enabled": true
   },
 
-  "name": "{ TheProFile }",
-  "headline": "The Portfolio-as-Code Template with Zero code & Maximum Impact.",
-  "email": "srisatyalokesh@duck.com",
+  "name": "Nashra Fatima",
+
+  "headline": "Data Analytics & AI Explorer Crafting Smart Digital Experiences Through Code, Creativity & Automation",
+
+  "email": "shaiknashra122@gmail.com",
+
   "profile_image_url": "/assets/img/logo.png",
-  "resume_url": "https://github.com/SriSatyaLokesh/theprofile",
-  "bio": "I am a high-fidelity, single-page Jekyll template born from a deep-seated hatred for drag-and-drop builders. I live in a single JSON file and dream of pixel-perfect glassmorphism. I don't need a CV; I am the CV. I'm here to ensure your career looks like it was built by a team of Silicon Valley designers, even if you just finished your second coffee.",
+
+  "resume_url": "",
+
+  "bio": "IT student passionate about Artificial Intelligence, Data Science, robotics, and futuristic technology. Currently exploring AI, automation, and data analytics using Python, Pandas, NumPy, and modern development tools. I enjoy building creative tech ideas that combine intelligence, innovation, and user experience. Alongside technology, I actively engage in community leadership, content creation, and digital creativity. Driven by curiosity, continuous learning, and a vision to create impactful solutions that make everyday life smarter, more efficient, and meaningful — while living with integrity.",
 
   "social": [
-    { "platform": "GitHub",    "url": "https://github.com/SriSatyaLokesh/theprofile",       "logo": "github",       "color": "181717" },
-    { "platform": "Twitter",   "url": "https://twitter.com",                          "logo": "twitter",      "color": "1DA1F2" },
-    { "platform": "LinkedIn",  "url": "https://linkedin.com",                         "logo": "linkedin",     "color": "0A66C2" },
-    { "platform": "Dev.to",    "url": "https://dev.to",                               "logo": "devdotto",     "color": "0A0A0A" }
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/NashraFatima",
+      "logo": "github",
+      "color": "181717"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/nashra-fatima-b6a83b326/",
+      "logo": "linkedin",
+      "color": "0A66C2"
+    },
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/_shaik.nashra_?igsh=MTY2dGc4dzU1eXkyNQ==",
+      "logo": "instagram",
+      "color": "E4405F"
+    },
+    {
+      "platform": "X",
+      "url": "https://x.com/NashraFatima29",
+      "logo": "x",
+      "color": "000000"
+    },
+    {
+      "platform": "LeetCode",
+      "url": "https://leetcode.com/u/NashraFatima/",
+      "logo": "leetcode",
+      "color": "FFA116"
+    }
   ],
 
   "experience": [
     {
-      "role": "Senior Portfolio Engine",
-      "company": "GitHub Pages",
-      "company_url": "https://pages.github.com",
-      "duration": "Jan 2026 – Present",
+      "role": "Community Lead & Creative Contributor",
+      "company": "Tech Communities",
+      "company_url": "https://github.com/NashraFatima",
+      "duration": "2024 – Present",
       "description": [
-        "Automated the career glow-up of thousands of developers by providing 6 interactable WebGL backgrounds they didn't know they needed.",
-        "Reduced 'Time to Landing Page' from weeks of CSS wrestling to 3 minutes of JSON editing — causing a 400% increase in developer confidence.",
-        "Successfully defended the 'Portfolio-as-Code' philosophy against the invading forces of drag-and-drop website builders.",
-        "Implemented a Dual-Trigger Easter Egg discovery system: Double-click the status badge for a background shockwave, or the Navbar logo for a sequential branding makeover.",
-        "Engineered a context-aware theme engine that intelligently preserves readability by selectively applying color palettes based on Light/Dark mode state."
-      ]
-    },
-    {
-      "role": "Lead CSS Wrestler",
-      "company": "The Internet",
-      "company_url": "https://www.w3.org",
-      "duration": "Oct 2025 – Present",
-      "description": [
-        "Centering a <div> while simultaneously maintaining Backdrop Blur (12px) without causing a browser meltdown.",
-        "Optimized GSAP entrance choreography to be 45% more 'satisfying' according to highly scientific internal audits.",
-        "Engineered a glassmorphism navigation system so floating it actually feels like it's made of real glass (without the risk of cuts).",
-        "Wrote 1,000+ lines of SCSS using CSS Custom Properties so users don't have to look at hex codes ever again."
+        "Actively involved in student tech communities, leadership initiatives, and collaborative projects.",
+        "Contributed to creative digital campaigns, community engagement, and technical event coordination.",
+        "Exploring the intersection of technology, creativity, automation, and intelligent systems."
       ]
     }
   ],
 
   "skills": [
     {
-      "category": "Frontend Soul",
-      "items": ["Jekyll", "Liquid Magic", "SCSS Architect", "GSAP Moves"],
-      "logos": ["jekyll", "shopify", "sass", "greensock"]
+      "category": "Programming & Development",
+      "items": [
+        "Python",
+        "Java",
+        "C",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "logos": [
+        "python",
+        "openjdk",
+        "c",
+        "javascript",
+        "html5",
+        "css3"
+      ]
     },
+
     {
-      "category": "Data Brain",
-      "items": ["JSON Schema", "Git Workflows", "Actions Automation", "YAML Whispering"],
-      "logos": ["json", "git", "githubactions", "github"]
+      "category": "Data Science & Analytics",
+      "items": [
+        "Pandas",
+        "NumPy",
+        "Matplotlib",
+        "Power BI",
+        "Data Analytics",
+        "AI Exploration"
+      ],
+      "logos": [
+        "pandas",
+        "numpy",
+        "plotly",
+        "powerbi",
+        "googleanalytics",
+        "openai"
+      ]
     },
+
     {
-      "category": "Visual Heart",
-      "items": ["Vanta.js", "Three.js", "WebGL", "Glassmorphism"],
-      "logos": ["visualstudiocode", "threejs", "webgl", "css3"]
+      "category": "Tools & Technologies",
+      "items": [
+        "GitHub",
+        "VS Code",
+        "MongoDB",
+        "MySQL",
+        "n8n",
+        "Automation"
+      ],
+      "logos": [
+        "github",
+        "visualstudiocode",
+        "mongodb",
+        "mysql",
+        "n8n",
+        "githubactions"
+      ]
+    },
+
+    {
+      "category": "Creative & Leadership",
+      "items": [
+        "Community Leadership",
+        "Content Creation",
+        "Photography",
+        "Video Editing",
+        "Marketing",
+        "Creative Strategy"
+      ],
+      "logos": [
+        "discord",
+        "youtube",
+        "adobephotoshop",
+        "adobepremierepro",
+        "canva",
+        "figma"
+      ]
     }
   ],
 
   "education": [
     {
-      "degree": "PhD in Zero-Code Architecture",
-      "institution": "University of Open Source",
-      "year": "2026",
+      "degree": "Bachelor of Technology",
+      "institution": "Information Technology",
+      "year": "2023 – Present",
       "description": [
-        "Defended a groundbreaking thesis on why developers should spend time coding features, not fighting with HTML boilerplate.",
-        "Minor in 'Monochromatic Theme Synchronization' — proving that any website looks elite with the right accent color.",
-        "Dean's List for 'Most Optimized Jekyll Build Time' (2025)."
-      ]
-    },
-    {
-      "degree": "Master of Portfolio Automation",
-      "institution": "Self-Taught via SriSatyaLokesh",
-      "year": "2025",
-      "description": [
-        "Mastered the art of JSON-to-Elite-Portfolio transformation.",
-        "Learned to orchestrate GSAP and Vanta.js for maximum cinematic impact."
+        "Focused on Artificial Intelligence, Data Science, programming, and modern software technologies.",
+        "Actively exploring futuristic technology, intelligent systems, automation, and creative digital solutions."
       ]
     }
   ],
 
   "projects": [
     {
-      "title": "{ TheProFile }",
-      "description": "A high-fidelity Portfolio-as-Code template. Focus on content in a single JSON file while the engine handles design, cinematic audio, and WebGL. Pro-tip: Double-click the Navbar logo for a branding makeover, or the 'Available for work' badge for background magic.",
+      "title": "AI & Data Science Learning Journey",
+      "description": "Documenting and building projects while exploring Artificial Intelligence, Data Analytics, automation, and intelligent technologies using Python and modern development tools.",
       "image_url": "/assets/img/theprofile.png",
-      "stack":        ["Jekyll",    "SCSS",     "GSAP"],
-      "stack_colors": ["CC0000",    "1572B6",   "88CE02"],
-      "stack_logos":  ["jekyll",    "css3",     "greensock"],
-      "code_url": "https://github.com/SriSatyaLokesh/theprofile",
-      "live_url": "https://srisatyalokesh.github.io/theprofile/"
+
+      "stack": [
+        "Python",
+        "Pandas",
+        "NumPy"
+      ],
+
+      "stack_colors": [
+        "3776AB",
+        "150458",
+        "013243"
+      ],
+
+      "stack_logos": [
+        "python",
+        "pandas",
+        "numpy"
+      ],
+
+      "code_url": "https://github.com/NashraFatima",
+      "live_url": ""
     },
+
     {
-      "title": "Open Certificate Generator",
-      "description": "An automated bulk certificate generation engine. Designed for hackathons and organizations to generate branded, professional certificates from raw data in seconds.",
-      "image_url": "https://srisatyalokesh.github.io/open-certificate-generator/assets/img/og-default.jpg",
-      "stack":        ["React",     "Canvas API", "Node.js"],
-      "stack_colors": ["61DAFB",    "000000",     "339933"],
-      "stack_logos":  ["react",     "html5",      "nodedotjs"],
-      "code_url": "https://github.com/SriSatyaLokesh/open-certificate-generator",
-      "live_url": "https://srisatyalokesh.github.io/open-certificate-generator/"
-    },
-    {
-      "title": "Copilot Team Workflow",
-      "description": "A comprehensive framework of standards and workflows for maximizing team velocity with GitHub Copilot. Includes optimized prompts and pair-programming patterns for elite teams.",
-      "image_url": "https://images.ctfassets.net/8aevphvgewt8/2Zamxo7a7F9K9jsTAl2EGA/bce1f04a40536e89ef543cb311f2968b/github-copilot-cli.png",
-      "stack":        ["AI Prompts", "Workflows", "Git"],
-      "stack_colors": ["4F46E5",     "000000",    "F05032"],
-      "stack_logos":  ["openai",     "github",    "git"],
-      "code_url": "https://github.com/SriSatyaLokesh/copilot-team-workflow",
-      "live_url": "https://srisatyalokesh.github.io/copilot-team-workflow/"
+      "title": "Creative Tech & Community Building",
+      "description": "Combining creativity, leadership, technology, and digital experiences through community initiatives, content creation, and collaborative innovation.",
+      "image_url": "/assets/img/logo.png",
+
+      "stack": [
+        "Canva",
+        "Marketing",
+        "Leadership"
+      ],
+
+      "stack_colors": [
+        "00C4CC",
+        "FF6B00",
+        "8B5CF6"
+      ],
+
+      "stack_logos": [
+        "canva",
+        "googleads",
+        "discord"
+      ],
+
+      "code_url": "https://github.com/NashraFatima",
+      "live_url": ""
     }
   ],
 
   "recommendations": [
     {
-      "text": "I built TheProFile specifically to solve my own frustration with complex portfolio maintenance. Pro-tip: Double-click the 'Available for opportunities' badge for a little surprise.",
-      "name": "SriSatyaLokesh",
-      "title": "Creator of TheProFile",
-      "linkedin_url": "https://www.linkedin.com/in/srisatyalokesh"
-    },
-    {
-      "text": "TheProFile is so good, it actually convinced me to stop using React for a simple landing page. My Lighthouse score is 100/100 and my hands are finally clean of node_modules.",
-      "name": "A Grateful Developer",
-      "title": "Escaped React Dev",
-      "linkedin_url": ""
-    },
-    {
-      "text": "The Portfolio-as-Code philosophy is exactly what I needed. I spend all day in VS Code; why would I want to build my site in a browser drag-and-drop tool?",
-      "name": "Backend Guru",
-      "title": "Senior YAML Architect",
-      "linkedin_url": ""
+      "text": "Passionate about learning, creativity, and building impactful technology experiences through continuous growth and innovation.",
+      "name": "Nashra Fatima",
+      "title": "AI & Data Science Enthusiast",
+      "linkedin_url": "https://www.linkedin.com/in/nashra-fatima-b6a83b326/"
     }
   ]
 }
